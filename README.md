@@ -4,7 +4,7 @@
 --------
 **Restaurant Type : seafood restaurant**
 
-####  get requirement from Owner
+#### note: get more requirement food details from Owner
 ## **Restaurant Menu** 
 
 | dishes | details|
@@ -16,3 +16,5 @@
 |[Bihari Fish Curry](https://c.ndtvimg.com/2018-09/sa1fsepo_fish-curry_625x300_28_September_18.jpg)|....|
 
 
+
+![image](Task-2-img.PNG)
